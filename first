@@ -1,0 +1,3 @@
+from math import factorial
+print(factorial(1231))
+print(12+3)
